@@ -1,0 +1,2 @@
+echo "Hello World" > input.txt
+echo "This is lab 2" > input.txt
